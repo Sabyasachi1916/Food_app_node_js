@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Sabyasachi1916/Food_app_node_js#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
